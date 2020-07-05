@@ -19,7 +19,7 @@ Set ```python load_checkpoint ``` and ```python is_countinue_train ``` be True a
 
 # Playing with checkpoint
 Set ```python load_checkpoint ``` True and ```python is_countinue_train ``` be False and run:
-```python python main.py ```
+``` python main.py ```
 
 
 
